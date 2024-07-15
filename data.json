@@ -1,0 +1,37 @@
+[
+    {
+        "nama": "Honda CBR500R",
+        "deskripsi": "Sport bike dengan performa tinggi",
+        "harga": 100000000
+    },
+    {
+        "nama": "Yamaha MT-07",
+        "deskripsi": "Naked bike dengan desain agresif",
+        "harga": 90000000
+    },
+    {
+        "nama": "Kawasaki Ninja 650",
+        "deskripsi": "Sport bike yang cocok untuk touring",
+        "harga": 110000000
+    },
+    {
+        "nama": "Suzuki GSX-S750",
+        "deskripsi": "Naked bike dengan tenaga bertenaga",
+        "harga": 95000000
+    },
+    {
+        "nama": "Ducati Panigale V4",
+        "deskripsi": "Superbike dengan teknologi canggih",
+        "harga": 300000000
+    },
+    {
+        "nama": "Harley-Davidson Iron 883",
+        "deskripsi": "Cruiser dengan gaya klasik dan performa kuat",
+        "harga": 150000000
+    },
+    {
+        "nama": "BMW S1000RR",
+        "deskripsi": "Superbike dengan performa luar biasa di lintasan",
+        "harga": 250000000
+    }
+]
